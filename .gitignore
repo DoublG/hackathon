@@ -108,4 +108,4 @@ venv.bak/
 hackathon/data/likeModel
 spark-warehouse
 tests
-
+.idea/
